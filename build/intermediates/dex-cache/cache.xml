@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_4ccf25e0285d99644bd86b8aa96f8008424884e7.jar" />
+    </item>
+    <item
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_fb6cb6ab4904b0ff39aa9f7b17a8e7a9020f439d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_ee6468405e6df6973bc43e809e428291def210e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bilgisaya\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1e07df0541b7e5e385f8d3971dc8c25effb69fc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_bdc73c7b8e620413819658d2c3acc9d991edc8f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_242cc8e35059897c231b1d603b244e12b531b6e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_2d4e411836c29e0120c935fdedd10c1ec5f5cb6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_a78608b5d492a26fd7a55a2c83d41aef9152fdf9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_d01d3fdde08ead14fe1ac38af6ac0f6134e61867.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d76d890add2426db809b162db34e6281b4076e19">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a79b2582141a245e15621b5f6ec642eeae27f8de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aee18549123a8b147229caf802ad0437c4602fdb">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\instant-run_56d0fd4e2498735951dd57cf01d85d54df300aae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Bilgisaya\Desktop\ozelders\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_809a0c90b809bafb1f7227780449350cc1fa460b.jar" />
+    </item>
+
+</items>

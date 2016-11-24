@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notifications.xml",
+        "source": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\src\\main\\res\\menu\\notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

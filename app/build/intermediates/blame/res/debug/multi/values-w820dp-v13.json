@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 57,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 55,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 41,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 528,
+                        "endColumn": 41,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 49,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 49,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 58,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 58,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 45,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 45,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 44,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "C:\\Users\\Bilgisaya\\Desktop\\ozelders\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 571,
+                        "endColumn": 44,
+                        "endOffset": 611
+                    }
+                }
+            }
+        ]
+    }
+]

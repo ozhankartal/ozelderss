@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/header_cover_image"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:scaleType="centerCrop"
+            android:background="@color/white"
+            />
+
+        <Button
+            android:id="@+id/profile_back"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:background="@drawable/ic_close_black_24dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            ></Button>
+
+
+
+        <Button
+            android:id="@+id/profile_kaydet"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="KAYDET"
+            android:textSize="15dp"
+            android:layout_marginRight="1dp"
+            android:layout_marginTop="1dp"
+            android:textColor="@color/btn_login_bg"
+            android:fontFamily="sans-serif"
+            android:layout_alignParentRight="true"
+            ></Button>
+
+
+
+
+        <RelativeLayout
+            android:id="@+id/profile_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/header_cover_image"
+            android:background="#ebca0707"
+            android:elevation="1dp"
+      >
+
+
+            <ImageButton
+                android:id="@+id/user_profile_photo"
+                android:clickable="true"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+
+                android:background="@drawable/profile_fotografi"
+                android:elevation="1dp"
+                android:padding="20dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_account_circle_white_36dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+
+
+
+
+
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/profile_layout"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kişisel Bilgiler"
+                android:id="@+id/textViewKisisel" />
+
+            <EditText
+                android:id="@+id/editTextIsım"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="İsim Soyisim"
+                />
+
+            <EditText
+                android:id="@+id/editTextMeslek"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Öğrenci"
+                android:editable="false"
+                />
+
+            <EditText
+                android:id="@+id/editTextIlgıAlani"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="İlgi Alanı Ekle"
+                />
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hesap Bilgileri"
+                android:id="@+id/textViewHesap" />
+
+            <EditText
+                android:id="@+id/editTextMail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mail Adresi"
+                android:editable="false"
+                />
+
+            <EditText
+                android:id="@+id/editTextSifre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Şifre"
+                android:inputType="textPassword"
+                />
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="İletişim Bilgileri"
+                android:id="@+id/textViewIletisim" />
+
+            <EditText
+                android:id="@+id/editTextFacebook"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kullanıcı Adınız"
+                />
+
+            <EditText
+                android:id="@+id/editTextTwitter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kullanıcı Adınız"
+                />
+
+            <EditText
+                android:id="@+id/editTextInstagram"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kullanıcı Adınız"
+                />
+
+            <EditText
+                android:id="@+id/editTextTelefon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Telefon Numaranız"
+                />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+</ScrollView>
